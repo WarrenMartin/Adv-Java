@@ -1,0 +1,7 @@
+/usr/lib/jvm/java-1.17.0-openjdk-amd64/bin/java -javaagent:/opt/intellij-idea/lib/idea_rt.jar=45635:/opt/intellij-idea/bin -Dfile.encoding=UTF-8 -classpath /home/warr/Desktop/Java/AdvJava/out/production/AdvJava ReflectionDemo
+class SimpleClass
+Look at methods: methodOne
+Look at methods: methodTwo
+Look at methods: methodThree
+
+Process finished with exit code 0

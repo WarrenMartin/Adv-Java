@@ -1,0 +1,13 @@
+Now we need to create a simle DB say Student which has table 1 as Student1 and table 2 as User
+
+
+create table user(
+
+	id int(20),
+	name varchar(30),
+	
+
+);
+
+Just copy paste this in mysql command line
+

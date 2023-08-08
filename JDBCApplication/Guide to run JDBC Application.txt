@@ -43,7 +43,7 @@ public class JDBC_DEMO {
 
 
 
-Now just copy paste this code and the next step is
+Now just copy paste this code and the next step is (https://github.com/WarrenMartin/Adv-Java/blob/main/JDBCApplication/Code1.java)
 
 Put the mysql connector jar file in the library ( just google it to get for the correct OS)
 
